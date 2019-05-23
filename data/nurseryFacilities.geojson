@@ -9,7 +9,7 @@
     },
     "properties": {
     "HID":1001,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立子安保育園",
     "Label":"八王子市立子安保育園",
@@ -47,7 +47,7 @@
     },
     "properties": {
     "HID":1002,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立千人保育園",
     "Label":"八王子市立千人保育園",
@@ -85,7 +85,7 @@
     },
     "properties": {
     "HID":1003,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立高尾保育園",
     "Label":"八王子市立高尾保育園",
@@ -123,7 +123,7 @@
     },
     "properties": {
     "HID":1004,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立恩方保育園",
     "Label":"八王子市立恩方保育園",
@@ -161,7 +161,7 @@
     },
     "properties": {
     "HID":1005,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立富士見台保育園",
     "Label":"八王子市立富士見台保育園",
@@ -199,7 +199,7 @@
     },
     "properties": {
     "HID":1006,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立津久田保育園",
     "Label":"八王子市立津久田保育園",
@@ -237,7 +237,7 @@
     },
     "properties": {
     "HID":1007,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立長房中央保育園",
     "Label":"八王子市立長房中央保育園",
@@ -275,7 +275,7 @@
     },
     "properties": {
     "HID":1008,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立北野保育園",
     "Label":"八王子市立北野保育園",
@@ -313,7 +313,7 @@
     },
     "properties": {
     "HID":1009,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立元八王子保育園",
     "Label":"八王子市立元八王子保育園",
@@ -351,7 +351,7 @@
     },
     "properties": {
     "HID":1010,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立みなみ野保育園",
     "Label":"八王子市立みなみ野保育園",
@@ -389,7 +389,7 @@
     },
     "properties": {
     "HID":1011,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立中野保育園",
     "Label":"八王子市立中野保育園",
@@ -427,7 +427,7 @@
     },
     "properties": {
     "HID":1012,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立石川保育園",
     "Label":"八王子市立石川保育園",
@@ -465,7 +465,7 @@
     },
     "properties": {
     "HID":1013,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立静教保育園",
     "Label":"八王子市立静教保育園",
@@ -503,7 +503,7 @@
     },
     "properties": {
     "HID":1014,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立多賀保育園",
     "Label":"八王子市立多賀保育園",
@@ -541,7 +541,7 @@
     },
     "properties": {
     "HID":1015,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立長房南保育園",
     "Label":"八王子市立長房南保育園",
@@ -579,7 +579,7 @@
     },
     "properties": {
     "HID":1016,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子市立長房西保育園",
     "Label":"八王子市立長房西保育園",
@@ -617,7 +617,7 @@
     },
     "properties": {
     "HID":1017,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"光明第一保育園",
     "Label":"光明第一保育園",
@@ -655,7 +655,7 @@
     },
     "properties": {
     "HID":1018,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"光明第三保育園",
     "Label":"光明第三保育園",
@@ -693,7 +693,7 @@
     },
     "properties": {
     "HID":1019,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子隣保館保育園",
     "Label":"八王子隣保館保育園",
@@ -731,7 +731,7 @@
     },
     "properties": {
     "HID":1020,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"船森保育園",
     "Label":"船森保育園",
@@ -769,7 +769,7 @@
     },
     "properties": {
     "HID":1021,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子共励保育園",
     "Label":"八王子共励保育園",
@@ -807,7 +807,7 @@
     },
     "properties": {
     "HID":1022,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"由井さゆり保育園",
     "Label":"由井さゆり保育園",
@@ -845,7 +845,7 @@
     },
     "properties": {
     "HID":1023,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"多摩文化保育園",
     "Label":"多摩文化保育園",
@@ -883,7 +883,7 @@
     },
     "properties": {
     "HID":1024,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"桑都保育園",
     "Label":"桑都保育園",
@@ -921,7 +921,7 @@
     },
     "properties": {
     "HID":1025,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子ふたば保育園",
     "Label":"八王子ふたば保育園",
@@ -959,7 +959,7 @@
     },
     "properties": {
     "HID":1026,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"藤井保育園",
     "Label":"藤井保育園",
@@ -997,7 +997,7 @@
     },
     "properties": {
     "HID":1027,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"浅川保育園",
     "Label":"浅川保育園",
@@ -1035,7 +1035,7 @@
     },
     "properties": {
     "HID":1028,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"多摩小ばと保育園",
     "Label":"多摩小ばと保育園",
@@ -1073,7 +1073,7 @@
     },
     "properties": {
     "HID":1029,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"甲ノ原保育園",
     "Label":"甲ノ原保育園",
@@ -1111,7 +1111,7 @@
     },
     "properties": {
     "HID":1030,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"光明第四保育園",
     "Label":"光明第四保育園",
@@ -1149,7 +1149,7 @@
     },
     "properties": {
     "HID":1031,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"光明第五保育園",
     "Label":"光明第五保育園",
@@ -1187,7 +1187,7 @@
     },
     "properties": {
     "HID":1032,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"打越保育園",
     "Label":"打越保育園",
@@ -1225,7 +1225,7 @@
     },
     "properties": {
     "HID":1033,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"打越保育園分園",
     "Label":"打越保育園分園",
@@ -1263,7 +1263,7 @@
     },
     "properties": {
     "HID":1034,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"光明第七保育園",
     "Label":"光明第七保育園",
@@ -1301,7 +1301,7 @@
     },
     "properties": {
     "HID":1035,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"共励第二保育園",
     "Label":"共励第二保育園",
@@ -1339,7 +1339,7 @@
     },
     "properties": {
     "HID":1036,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"愛光大和田保育園",
     "Label":"愛光大和田保育園",
@@ -1377,7 +1377,7 @@
     },
     "properties": {
     "HID":1037,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"愛光大和田保育園アネックス",
     "Label":"愛光大和田保育園アネックス",
@@ -1415,7 +1415,7 @@
     },
     "properties": {
     "HID":1038,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"愛光大和田保育園ステーション",
     "Label":"愛光大和田保育園ステーション",
@@ -1453,7 +1453,7 @@
     },
     "properties": {
     "HID":1039,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"敬愛保育園",
     "Label":"敬愛保育園",
@@ -1491,7 +1491,7 @@
     },
     "properties": {
     "HID":1040,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"諏訪保育園",
     "Label":"諏訪保育園",
@@ -1529,7 +1529,7 @@
     },
     "properties": {
     "HID":1041,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"諏訪保育園のぞみ乳児園",
     "Label":"諏訪保育園のぞみ乳児園",
@@ -1567,7 +1567,7 @@
     },
     "properties": {
     "HID":1042,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"由木保育園",
     "Label":"由木保育園",
@@ -1605,7 +1605,7 @@
     },
     "properties": {
     "HID":1043,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"まや保育園",
     "Label":"まや保育園",
@@ -1643,7 +1643,7 @@
     },
     "properties": {
     "HID":1044,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"八王子ひまわり保育園",
     "Label":"八王子ひまわり保育園",
@@ -1681,7 +1681,7 @@
     },
     "properties": {
     "HID":1045,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"山田保育園",
     "Label":"山田保育園",
@@ -1719,7 +1719,7 @@
     },
     "properties": {
     "HID":1046,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"ベテル保育園",
     "Label":"ベテル保育園",
@@ -1757,7 +1757,7 @@
     },
     "properties": {
     "HID":1047,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"敬愛高倉保育園",
     "Label":"敬愛高倉保育園",
@@ -1795,7 +1795,7 @@
     },
     "properties": {
     "HID":1048,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"まごころ保育園",
     "Label":"まごころ保育園",
@@ -1833,7 +1833,7 @@
     },
     "properties": {
     "HID":1049,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"めじろ保育園",
     "Label":"めじろ保育園",
@@ -1871,7 +1871,7 @@
     },
     "properties": {
     "HID":1050,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"大塚保育園",
     "Label":"大塚保育園",
@@ -1909,7 +1909,7 @@
     },
     "properties": {
     "HID":1051,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"大塚子どもふれあい館",
     "Label":"大塚子どもふれあい館",
@@ -1947,7 +1947,7 @@
     },
     "properties": {
     "HID":1052,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"めぐみ第一保育園",
     "Label":"めぐみ第一保育園",
@@ -1985,7 +1985,7 @@
     },
     "properties": {
     "HID":1053,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"松枝保育園",
     "Label":"松枝保育園",
@@ -2023,7 +2023,7 @@
     },
     "properties": {
     "HID":1054,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"城山保育園",
     "Label":"城山保育園",
@@ -2061,7 +2061,7 @@
     },
     "properties": {
     "HID":1055,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"美山保育園",
     "Label":"美山保育園",
@@ -2099,7 +2099,7 @@
     },
     "properties": {
     "HID":1056,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"白百合ベビーホーム",
     "Label":"白百合ベビーホーム",
@@ -2137,7 +2137,7 @@
     },
     "properties": {
     "HID":1057,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"わらべ保育園",
     "Label":"わらべ保育園",
@@ -2175,7 +2175,7 @@
     },
     "properties": {
     "HID":1058,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"からまつ保育園",
     "Label":"からまつ保育園",
@@ -2213,7 +2213,7 @@
     },
     "properties": {
     "HID":1059,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"館ヶ丘保育園",
     "Label":"館ヶ丘保育園",
@@ -2251,7 +2251,7 @@
     },
     "properties": {
     "HID":1060,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"白百合第二ベビーホーム",
     "Label":"白百合第二ベビーホーム",
@@ -2289,7 +2289,7 @@
     },
     "properties": {
     "HID":1061,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"さつき保育園",
     "Label":"さつき保育園",
@@ -2327,7 +2327,7 @@
     },
     "properties": {
     "HID":1062,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"省我保育園",
     "Label":"省我保育園",
@@ -2365,7 +2365,7 @@
     },
     "properties": {
     "HID":1063,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"たんぽぽ保育園",
     "Label":"たんぽぽ保育園",
@@ -2403,7 +2403,7 @@
     },
     "properties": {
     "HID":1064,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"なみのり保育園",
     "Label":"なみのり保育園",
@@ -2441,7 +2441,7 @@
     },
     "properties": {
     "HID":1065,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"フエロー保育園",
     "Label":"フエロー保育園",
@@ -2479,7 +2479,7 @@
     },
     "properties": {
     "HID":1066,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"南原台保育園",
     "Label":"南原台保育園",
@@ -2517,7 +2517,7 @@
     },
     "properties": {
     "HID":1067,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"元木保育園",
     "Label":"元木保育園",
@@ -2555,7 +2555,7 @@
     },
     "properties": {
     "HID":1068,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"よろず保育園",
     "Label":"よろず保育園",
@@ -2593,7 +2593,7 @@
     },
     "properties": {
     "HID":1069,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"横川保育園",
     "Label":"横川保育園",
@@ -2631,7 +2631,7 @@
     },
     "properties": {
     "HID":1070,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"白百合寺田保育園",
     "Label":"白百合寺田保育園",
@@ -2669,7 +2669,7 @@
     },
     "properties": {
     "HID":1071,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"由木あすなろ保育園",
     "Label":"由木あすなろ保育園",
@@ -2707,7 +2707,7 @@
     },
     "properties": {
     "HID":1072,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"南大沢保育園",
     "Label":"南大沢保育園",
@@ -2745,7 +2745,7 @@
     },
     "properties": {
     "HID":1073,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"わらべうつき台保育園",
     "Label":"わらべうつき台保育園",
@@ -2783,7 +2783,7 @@
     },
     "properties": {
     "HID":1074,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"誠美保育園",
     "Label":"誠美保育園",
@@ -2821,7 +2821,7 @@
     },
     "properties": {
     "HID":1075,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"やまと第一保育園",
     "Label":"やまと第一保育園",
@@ -2859,7 +2859,7 @@
     },
     "properties": {
     "HID":1076,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"敬愛フレンド保育園",
     "Label":"敬愛フレンド保育園",
@@ -2897,7 +2897,7 @@
     },
     "properties": {
     "HID":1077,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"このみ保育園",
     "Label":"このみ保育園",
@@ -2935,7 +2935,7 @@
     },
     "properties": {
     "HID":1078,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"なみのり第二保育園",
     "Label":"なみのり第二保育園",
@@ -2973,7 +2973,7 @@
     },
     "properties": {
     "HID":1079,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"光明第八保育園",
     "Label":"光明第八保育園",
@@ -3011,7 +3011,7 @@
     },
     "properties": {
     "HID":1080,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"せいがの森こども園",
     "Label":"せいがの森こども園",
@@ -3049,7 +3049,7 @@
     },
     "properties": {
     "HID":1081,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"めぐみ第二保育園",
     "Label":"めぐみ第二保育園",
@@ -3087,7 +3087,7 @@
     },
     "properties": {
     "HID":1082,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"つくし保育園",
     "Label":"つくし保育園",
@@ -3125,7 +3125,7 @@
     },
     "properties": {
     "HID":1083,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"みなみ野さゆり保育園",
     "Label":"みなみ野さゆり保育園",
@@ -3163,7 +3163,7 @@
     },
     "properties": {
     "HID":1084,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"敬愛たかお保育園",
     "Label":"敬愛たかお保育園",
@@ -3201,7 +3201,7 @@
     },
     "properties": {
     "HID":1085,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"まつの木保育園",
     "Label":"まつの木保育園",
@@ -3239,7 +3239,7 @@
     },
     "properties": {
     "HID":1086,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"敬愛きたの保育園",
     "Label":"敬愛きたの保育園",
@@ -3277,7 +3277,7 @@
     },
     "properties": {
     "HID":1087,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"みなみ野敬愛保育園",
     "Label":"みなみ野敬愛保育園",
@@ -3315,7 +3315,7 @@
     },
     "properties": {
     "HID":1088,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"駅前なかよし保育園第１",
     "Label":"駅前なかよし保育園第１",
@@ -3353,7 +3353,7 @@
     },
     "properties": {
     "HID":1089,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"ひなた保育園",
     "Label":"ひなた保育園",
@@ -3391,7 +3391,7 @@
     },
     "properties": {
     "HID":1090,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"敬愛ハーモニー保育園",
     "Label":"敬愛ハーモニー保育園",
@@ -3429,7 +3429,7 @@
     },
     "properties": {
     "HID":1091,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"さゆりの丘保育園",
     "Label":"さゆりの丘保育園",
@@ -3467,7 +3467,7 @@
     },
     "properties": {
     "HID":1092,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"わらべ里山保育園",
     "Label":"わらべ里山保育園",
@@ -3505,7 +3505,7 @@
     },
     "properties": {
     "HID":1093,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"敬愛クレヨン保育園",
     "Label":"敬愛クレヨン保育園",
@@ -3543,7 +3543,7 @@
     },
     "properties": {
     "HID":1094,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"白百合椚田保育園",
     "Label":"白百合椚田保育園",
@@ -3581,7 +3581,7 @@
     },
     "properties": {
     "HID":1095,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"フエロー第二保育園",
     "Label":"フエロー第二保育園",
@@ -3619,7 +3619,7 @@
     },
     "properties": {
     "HID":1096,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"若葉の丘保育園",
     "Label":"若葉の丘保育園",
@@ -3657,7 +3657,7 @@
     },
     "properties": {
     "HID":1097,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"駅前なかよし保育園第２",
     "Label":"駅前なかよし保育園第２",
@@ -3695,7 +3695,7 @@
     },
     "properties": {
     "HID":1098,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"北野ひなた保育園",
     "Label":"北野ひなた保育園",
@@ -3733,7 +3733,7 @@
     },
     "properties": {
     "HID":1099,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"みころん保育園",
     "Label":"みころん保育園",
@@ -3771,7 +3771,7 @@
     },
     "properties": {
     "HID":1100,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"みころん保育園分園",
     "Label":"みころん保育園分園",
@@ -3809,7 +3809,7 @@
     },
     "properties": {
     "HID":1101,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"保育園コスモ・アレー",
     "Label":"保育園コスモ・アレー",
@@ -3847,7 +3847,7 @@
     },
     "properties": {
     "HID":1102,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"京王キッズプラッツ南大沢",
     "Label":"京王キッズプラッツ南大沢",
@@ -3885,7 +3885,7 @@
     },
     "properties": {
     "HID":1103,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"星の子保育園",
     "Label":"星の子保育園",
@@ -3923,7 +3923,7 @@
     },
     "properties": {
     "HID":1104,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"堀之内プチ・クレイシュ",
     "Label":"堀之内プチ・クレイシュ",
@@ -3961,7 +3961,7 @@
     },
     "properties": {
     "HID":1105,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"敬愛シンフォニー保育園",
     "Label":"敬愛シンフォニー保育園",
@@ -3999,7 +3999,7 @@
     },
     "properties": {
     "HID":1106,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"ピノキオ幼児舎西八王子保育園",
     "Label":"ピノキオ幼児舎西八王子保育園",
@@ -5253,7 +5253,7 @@
     },
     "properties": {
     "HID":1139,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"キッズスペースドリーム大和田",
     "Label":"キッズスペースドリーム大和田",
@@ -5291,7 +5291,7 @@
     },
     "properties": {
     "HID":1140,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"こばと保育園",
     "Label":"こばと保育園",
@@ -5329,7 +5329,7 @@
     },
     "properties": {
     "HID":1141,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":null,
     "Name":"わくわくランド",
     "Label":"わくわくランド",
@@ -6507,7 +6507,7 @@
     },
     "properties": {
     "HID":1172,
-    "Type":"認可",
+    "Type":"認可保育所",
     "Kodomo":"Y",
     "Name":"ココファン・ナーサリー八王子北館",
     "Label":"ココファン・ナーサリー八王子北館",
