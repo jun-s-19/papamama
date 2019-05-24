@@ -6503,7 +6503,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 139.33889,35.654678 ]
+       "coordinates":  [ 139.339223,35.656163 ]
     },
     "properties": {
     "HID":1172,
@@ -6512,7 +6512,7 @@
     "Name":"ココファン・ナーサリー八王子北館",
     "Label":"ココファン・ナーサリー八王子北館",
     "AgeS":"0歳",
-    "AgeE":"2歳児",
+    "AgeE":"５歳児",
     "Full":58,
     "Open":"07:00",
     "Close":"18:00",
@@ -6530,8 +6530,8 @@
     "Ownership":null,
     "Proof":null,
     "Shanai":null,
-    "Y":35.654678,
-    "X":139.33889,
+    "Y":35.656163,
+    "X":139.339223,
     "url":"http://nursery.cocofump.co.jp/nursery_school/hachiouji_kita_long/",
     "Vacancy":null,
     "VacancyDate":null
