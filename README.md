@@ -11,11 +11,12 @@
 - http://portal.cyberjapan.jp/help/development/ichiran.html
 
 ## このマップで用いているデータについて
-八王子市が公開している子育て関連オープンデータ、および、国土数値情報ダウンロードサービスから入手できる福祉施設情報を元に独自のCSVデータを作成し利用しています。
+八王子市が公開している子育て関連オープンデータ、および、国土数値情報ダウンロードサービスから入手できる福祉施設情報を元にgeojson形式のデータを作成し利用しています。
 - https://www.city.hachioji.tokyo.jp/contents/open/002/p005871.html
 - http://nlftp.mlit.go.jp/ksj/index.html
 
-上記の元データから本アプリで用いるデータへの変換スクリプトは以下に公開予定です。
+上記の元データから本アプリで用いるデータへの変換スクリプトは以下で公開しています。
+https://github.com/jun-s-19/makedata_papamama_hachioji
 
 ## ライセンスについて
 
